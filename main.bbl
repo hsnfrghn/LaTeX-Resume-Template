@@ -1,0 +1,468 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{gamingaddiction}{report}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=346cb5849eca0b1ab64fb1b5028dbbf8}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Kevin\bibnamedelima H.},
+           giveni={K\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ed1c69fc004261994291f8419a01d21f}{%
+           family={Oliffe},
+           familyi={O\bibinitperiod},
+           given={John\bibnamedelima L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fd60ce876192bcb05169afac6dd73065}{%
+           family={Kelly},
+           familyi={K\bibinitperiod},
+           given={Mary\bibnamedelima T.},
+           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {University of British Columbia}%
+      }
+      \strng{namehash}{cc56ee9e3b31d874df51acb5aebb1a19}
+      \strng{fullhash}{cc56ee9e3b31d874df51acb5aebb1a19}
+      \strng{bibnamehash}{cc56ee9e3b31d874df51acb5aebb1a19}
+      \strng{authorbibnamehash}{cc56ee9e3b31d874df51acb5aebb1a19}
+      \strng{authornamehash}{cc56ee9e3b31d874df51acb5aebb1a19}
+      \strng{authorfullhash}{cc56ee9e3b31d874df51acb5aebb1a19}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Journal of Men's Health}
+      \field{shortjournal}{AMJ}
+      \field{subtitle}{An Emergent Health Issue for Men}
+      \field{title}{Internet Gaming Disorder}
+      \field{year}{2018}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1177/1557988318766950
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6131461/
+      \endverb
+      \verb{url}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6131461/
+      \endverb
+    \endentry
+    \entry{dirac}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=59342ede3a101402b34939644b51ad06}{%
+           family={Dirac},
+           familyi={D\bibinitperiod},
+           given={Paul\bibnamedelimb Adrien\bibnamedelima Maurice},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Clarendon Press}%
+      }
+      \strng{namehash}{59342ede3a101402b34939644b51ad06}
+      \strng{fullhash}{59342ede3a101402b34939644b51ad06}
+      \strng{bibnamehash}{59342ede3a101402b34939644b51ad06}
+      \strng{authorbibnamehash}{59342ede3a101402b34939644b51ad06}
+      \strng{authornamehash}{59342ede3a101402b34939644b51ad06}
+      \strng{authorfullhash}{59342ede3a101402b34939644b51ad06}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780198520115}
+      \field{series}{International series of monographs on physics}
+      \field{title}{The Principles of Quantum Mechanics}
+      \field{year}{1981}
+      \true{nocite}
+      \keyw{physics}
+    \endentry
+    \entry{einstein}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3ebf53e52a3ce84f0ffb8553200a6a63}{%
+           family={Einstein},
+           familyi={E\bibinitperiod},
+           given={Albert},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{fullhash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{bibnamehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{authorbibnamehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{authornamehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{authorfullhash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Annalen der Physik}
+      \field{number}{10}
+      \field{title}{{Zur Elektrodynamik bewegter Körper}. ({German}) [{On} the electrodynamics of moving bodies]}
+      \field{volume}{322}
+      \field{year}{1905}
+      \true{nocite}
+      \field{pages}{891\bibrangedash 921}
+      \range{pages}{31}
+      \verb{doi}
+      \verb http://dx.doi.org/10.1002/andp.19053221004
+      \endverb
+      \keyw{physics}
+    \endentry
+    \entry{oceanthesis}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a86155f45de0b556b8578f5ebf60fe92}{%
+           family={Forghani-Ramandy},
+           familyi={F\bibinithyphendelim R\bibinitperiod},
+           given={Hasan},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {University of Copenhagen}%
+      }
+      \strng{namehash}{a86155f45de0b556b8578f5ebf60fe92}
+      \strng{fullhash}{a86155f45de0b556b8578f5ebf60fe92}
+      \strng{bibnamehash}{a86155f45de0b556b8578f5ebf60fe92}
+      \strng{authorbibnamehash}{a86155f45de0b556b8578f5ebf60fe92}
+      \strng{authornamehash}{a86155f45de0b556b8578f5ebf60fe92}
+      \strng{authorfullhash}{a86155f45de0b556b8578f5ebf60fe92}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{04}
+      \field{note}{Supervisor: Professor Markus Jochum}
+      \field{subtitle}{Inferring the Causes of Real-World Rogue Waves}
+      \field{title}{An Ocean of Data}
+      \field{type}{phdthesis}
+      \field{year}{2022}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://nbi.ku.dk/english/theses/phd-theses/dion-hfner/
+      \endverb
+      \verb{url}
+      \verb https://nbi.ku.dk/english/theses/phd-theses/dion-hfner/
+      \endverb
+    \endentry
+    \entry{Kallaxmanual}{manual}{}
+      \list{organization}{1}{%
+        {Ikea}%
+      }
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{day}{14}
+      \field{month}{12}
+      \field{subtitle}{Assembly Instructions}
+      \field{title}{Kallax}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.ikea.com/us/en/assembly_instructions/kallax-shelf-unit-white__AA-1009448-16-100.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.ikea.com/us/en/assembly_instructions/kallax-shelf-unit-white__AA-1009448-16-100.pdf
+      \endverb
+    \endentry
+    \entry{knuthwebsite}{online}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=1dd533466eb3313074d496394d319407}{%
+           family={Knuth},
+           familyi={K\bibinitperiod},
+           given={Donald},
+           giveni={D\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{1dd533466eb3313074d496394d319407}
+      \strng{fullhash}{1dd533466eb3313074d496394d319407}
+      \strng{bibnamehash}{1dd533466eb3313074d496394d319407}
+      \strng{authorbibnamehash}{1dd533466eb3313074d496394d319407}
+      \strng{authornamehash}{1dd533466eb3313074d496394d319407}
+      \strng{authorfullhash}{1dd533466eb3313074d496394d319407}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(accessed: 01.09.2016)}
+      \field{title}{Knuth: Computers and Typesetting}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://www-cs-faculty.stanford.edu/~uno/abcde.html
+      \endverb
+      \verb{url}
+      \verb http://www-cs-faculty.stanford.edu/~uno/abcde.html
+      \endverb
+      \keyw{latex,knuth,website}
+    \endentry
+    \entry{knuth-fa}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=ec08e6f01da5f3814f28a70c89c64656}{%
+           family={Knuth},
+           familyi={K\bibinitperiod},
+           given={Donald\bibnamedelima E.},
+           giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{publisher}{1}{%
+        {Addison-Wesley}%
+      }
+      \strng{namehash}{ec08e6f01da5f3814f28a70c89c64656}
+      \strng{fullhash}{ec08e6f01da5f3814f28a70c89c64656}
+      \strng{bibnamehash}{ec08e6f01da5f3814f28a70c89c64656}
+      \strng{authorbibnamehash}{ec08e6f01da5f3814f28a70c89c64656}
+      \strng{authornamehash}{ec08e6f01da5f3814f28a70c89c64656}
+      \strng{authorfullhash}{ec08e6f01da5f3814f28a70c89c64656}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{chapter}{1.2}
+      \field{title}{Fundamental Algorithms}
+      \field{year}{1973}
+      \true{nocite}
+      \keyw{knuth,programming}
+    \endentry
+    \entry{IceCubeThesis}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=22cd849c1bcde0abcaead8c4f1a674b2}{%
+           family={Leinaas},
+           familyi={L\bibinitperiod},
+           given={Jan\bibnamedelima Erik},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {NTNU}%
+      }
+      \strng{namehash}{22cd849c1bcde0abcaead8c4f1a674b2}
+      \strng{fullhash}{22cd849c1bcde0abcaead8c4f1a674b2}
+      \strng{bibnamehash}{22cd849c1bcde0abcaead8c4f1a674b2}
+      \strng{authorbibnamehash}{22cd849c1bcde0abcaead8c4f1a674b2}
+      \strng{authornamehash}{22cd849c1bcde0abcaead8c4f1a674b2}
+      \strng{authorfullhash}{22cd849c1bcde0abcaead8c4f1a674b2}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{Could Decaying Dark Matter explain the high energy Neutrino Excess?}
+      \field{title}{Maximum Likelihood Analysis of IceCube Data}
+      \field{type}{mathesis}
+      \field{year}{2015}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://hdl.handle.net/11250/2352046
+      \endverb
+      \verb{url}
+      \verb http://hdl.handle.net/11250/2352046
+      \endverb
+    \endentry
+    \entry{youtube-overleaf}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=80d685e90fa23d7996a66e45aa2d24ad}{%
+           family={{Overleaf}},
+           familyi={O\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Youtube}%
+      }
+      \strng{namehash}{80d685e90fa23d7996a66e45aa2d24ad}
+      \strng{fullhash}{80d685e90fa23d7996a66e45aa2d24ad}
+      \strng{bibnamehash}{80d685e90fa23d7996a66e45aa2d24ad}
+      \strng{authorbibnamehash}{80d685e90fa23d7996a66e45aa2d24ad}
+      \strng{authornamehash}{80d685e90fa23d7996a66e45aa2d24ad}
+      \strng{authorfullhash}{80d685e90fa23d7996a66e45aa2d24ad}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{6}
+      \field{month}{10}
+      \field{title}{Overleaf - Download Project Files}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.youtube.com/watch?v=oq117ouVqJs
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=oq117ouVqJs
+      \endverb
+      \keyw{video}
+    \endentry
+    \entry{RCT2019}{software}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=dcdebb6b35bff7c0568bf8c50ef8626d}{%
+           family={{R Core Team}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Vienna, Austria}%
+      }
+      \list{organization}{1}{%
+        {R Foundation for Statistical Computing}%
+      }
+      \strng{namehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{fullhash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{bibnamehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{authorbibnamehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{authornamehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{authorfullhash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Vienna, Austria}
+      \field{note}{Computer Software}
+      \field{title}{R: A Language and Environment for Statistical Computing}
+      \field{version}{3.6.1}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.R-project.org/ (EPEL Repo)
+      \endverb
+      \verb{url}
+      \verb https://www.R-project.org/%20(EPEL%20Repo)
+      \endverb
+    \endentry
+    \entry{salam}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5196fd7e08485dbc6a7dd05adc133fdf}{%
+           family={Salam},
+           familyi={S\bibinitperiod},
+           given={Abdus},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=d0ec890e59163c24c111a08d2a4be982}{%
+           family={Svartholm},
+           familyi={S\bibinitperiod},
+           given={Nils},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Stockholm}%
+      }
+      \list{publisher}{1}{%
+        {Almquist \& Wiksell}%
+      }
+      \strng{namehash}{5196fd7e08485dbc6a7dd05adc133fdf}
+      \strng{fullhash}{5196fd7e08485dbc6a7dd05adc133fdf}
+      \strng{bibnamehash}{5196fd7e08485dbc6a7dd05adc133fdf}
+      \strng{authorbibnamehash}{5196fd7e08485dbc6a7dd05adc133fdf}
+      \strng{authornamehash}{5196fd7e08485dbc6a7dd05adc133fdf}
+      \strng{authorfullhash}{5196fd7e08485dbc6a7dd05adc133fdf}
+      \strng{editorbibnamehash}{d0ec890e59163c24c111a08d2a4be982}
+      \strng{editornamehash}{d0ec890e59163c24c111a08d2a4be982}
+      \strng{editorfullhash}{d0ec890e59163c24c111a08d2a4be982}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booksubtitle}{Relativistic groups and analyticity}
+      \field{booktitle}{Elementary particle theory}
+      \field{booktitleaddon}{Proceedings of the {Eighth Nobel Symposium}}
+      \field{eventday}{19}
+      \field{eventendday}{25}
+      \field{eventendmonth}{5}
+      \field{eventendyear}{1968}
+      \field{eventmonth}{5}
+      \field{eventyear}{1968}
+      \field{title}{Weak and Electromagnetic Interactions}
+      \field{venue}{Aspenäsgarden, Lerum}
+      \field{year}{1968}
+      \field{dateera}{ce}
+      \field{eventenddateera}{ce}
+      \field{eventdateera}{ce}
+      \true{nocite}
+      \field{pages}{367\bibrangedash 377}
+      \range{pages}{11}
+    \endentry
+    \entry{lightbulb}{patent}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d74022e49a209907e4962c80022a0471}{%
+           family={Springer},
+           familyi={S\bibinitperiod},
+           given={Shaun},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{holder}{1}{}{%
+        {{hash=d3a26c1051eda98a4067328f7d02e892}{%
+           family={{Astro Inc}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{d74022e49a209907e4962c80022a0471}
+      \strng{fullhash}{d74022e49a209907e4962c80022a0471}
+      \strng{bibnamehash}{d74022e49a209907e4962c80022a0471}
+      \strng{authorbibnamehash}{d74022e49a209907e4962c80022a0471}
+      \strng{authornamehash}{d74022e49a209907e4962c80022a0471}
+      \strng{authorfullhash}{d74022e49a209907e4962c80022a0471}
+      \strng{holderbibnamehash}{d3a26c1051eda98a4067328f7d02e892}
+      \strng{holdernamehash}{d3a26c1051eda98a4067328f7d02e892}
+      \strng{holderfullhash}{d3a26c1051eda98a4067328f7d02e892}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Multi-purpose lightbulb}
+      \field{year}{2016}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://patents.google.com/patent/US9784417B1/en?q=lightbulb&oq=lightbulb
+      \endverb
+      \verb{url}
+      \verb https://patents.google.com/patent/US9784417B1/en?q=lightbulb&oq=lightbulb
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

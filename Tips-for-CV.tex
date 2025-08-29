@@ -1,0 +1,53 @@
+% Tips for CV
+% -------------------------------
+% Here are some tips for writing your CV. These tips are more specific to this CV and its functionality.
+
+% Languages:
+% *******************
+% This CV can be written in many languages. The bibliography and most of the document can be adjusted with babel. 
+% The exception is some custom commands that are defined in the CV.cls:
+%  - \LngTextCEFR (english, norsk, nynorsk)
+%  - \LngTextILR (english, norsk, nynorsk)
+%  - \pubtitle (english only)
+% You can modify these commands in the .cls for other languages. For pubtitle, you can use 
+%     \pubtitle[<Text>][<symbol>]{Custom}
+% to display another language.
+% The 'Page' text in the header on page 2 imports the babel key for 'page' from the current language.
+
+% Sections:
+% *******************
+% You can use the table format to neatly format text in sections. If you want three columns you use
+%  \begin{CV_table} and for two columns, you use \begin{CV_text}. The black separation line will 
+% in both environments will align with each other.
+% If you want you can also just write plain text in each section, or use your own table.
+
+% Formatting:
+% *******************
+% The second column is optional on both page one and page two. You can chose between one column or two columns.
+% For one column: Comment out \begin{CVbody} and \end{CVbody}. Also, comment out the \include{Txt/p1_sidebar.tex}.
+% If you do not have publications, or do not want an extencive list, you can drop the section altogether or just
+% write in plain text "have published x articles and ...". 
+
+% Pages:
+% *******************
+% I included an error that makes the document crash and not compile if if exceeds 2 pages. This is to 
+% encourage short CVs, as it is generally agreed upon that a CV should be 1-2 pages long. Try to keep 
+% your CV short and precise, as it is estimated that recruiters on average look at your CV for 
+% only 6-7 seconds! 
+% Should you want to make 2 or more CVs that are similar, you can include the class option multipleCVs.
+% This can be great if you need two similar CVs, but not identical ones. The page 2 text is set to be printed
+% at every other page, so you may want to leave a blank page with \blankpage if your CV is only 1 page long.
+% You can then use \makeCVheader at each new CV and have a different linkeheader (or the same) and different 
+% profile, etc.
+
+% Application letter:
+% *******************
+% It may be wise to have a job application letter in the same style/ formatting as the CV, as this appears
+% more professional. I also have a job application template you can use. 
+
+% Fonts, font size and paper size:
+% *******************
+% These adjustments are not yet supported properly and not work properly in all cases. If you want 
+% smaller section titles, this can be achieved doing 
+%     {<font adjustments>\MakeUppercase{<Title>}\\[1ex]\linia\medskip}
+% When adjusting paper size, the CVtable columns may be off, as the first column have a set length.
