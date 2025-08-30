@@ -1,21 +1,21 @@
 # Fdb version 3
-["biber main"] 1756307046 "main.bcf" "main.bbl" "main" 1756470347
+["biber main"] 1756496677 "main.bcf" "main.bbl" "main" 1756498717
   "Txt/Publications/pub.bib" 1756226194 3896 45ed452024ad3838b1e87a8999a5bf12 ""
-  "main.bcf" 1756470347 107103 342fa8f20a92185dfab2e742001ab94e "pdflatex"
+  "main.bcf" 1756498717 107103 342fa8f20a92185dfab2e742001ab94e "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1756470346 "/home/hsn/LateX/Extensive__adjustable_Curriculum_Vitae__CV_/main.tex" "main.pdf" "main" 1756470347
+["pdflatex"] 1756498716 "/home/hsn/LateX/Extensive__adjustable_Curriculum_Vitae__CV_/main.tex" "main.pdf" "main" 1756498717
   "/etc/texmf/web2c/texmf.cnf" 1755978781 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/hsn/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1000.600pk" 1756307041 25396 a5ec152df4f251c1e557635e65c5fc48 ""
   "/home/hsn/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk" 1756307051 31928 69d3f0665ab7f62936009898884d1ff3 ""
   "/home/hsn/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx2488.600pk" 1756307046 72264 919602d7cf7abf9cfdf48e6ad36529e0 ""
   "/home/hsn/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/eccc1000.600pk" 1756307050 25076 d2a8caf26d94a8c372d5b35fecd72851 ""
   "/home/hsn/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0800.600pk" 1756307045 19056 c51ce855914e2e4bd29f2830ec57fdd6 ""
-  "/home/hsn/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0900.600pk" 1756307040 21332 0506e1d4a0483b8f6e6ca2832b3bad7f ""
   "/home/hsn/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1000.600pk" 1756307040 23784 650f147e78ea3564ec4eb21e73f1c130 ""
   "/home/hsn/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk" 1756307045 28416 3ffe6994b4bf262a96e69e0c6f03cfeb ""
   "/home/hsn/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1728.600pk" 1756307042 42496 463d1b4f726aa0f1a161b27f024f7197 ""
+  "/home/hsn/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti0800.600pk" 1756497914 24944 9e977f23f345c69370e9fc63b25731cd ""
   "/home/hsn/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti0900.600pk" 1756307043 28796 8ce45b9b23e9cb14f34d0fc9402057b8 ""
   "/home/hsn/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti1000.600pk" 1756307044 31872 23d4203a3c8b5f151334311cd739544a ""
   "/home/hsn/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1000.600pk" 1756307049 20008 841ba150fc85208079cdc94661bae097 ""
@@ -38,6 +38,7 @@
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecrm1200.tfm" 1136768653 3584 f80ddd985bd00e29e9a6047ebd9d4781 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecrm1728.tfm" 1136768653 3584 3c76ccb63eda935a68ba65ba9da29f1a ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecrm2488.tfm" 1136768653 3584 406ad7b70d9a41f7833f92b6313150c8 ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecti0800.tfm" 1136768653 3072 828ba0ea87cf5b727c4bfd6367195ec2 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecti0900.tfm" 1136768653 3072 a603fa6d934ebc72197ed1c389943d86 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecti1000.tfm" 1136768653 3072 3bce340d4c075dffe6d4ec732b4c32fe ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ectt1000.tfm" 1136768653 1536 06717a2b50de47d4087ac0e6cd759455 ""
@@ -261,11 +262,11 @@
   "Code/Preamble.tex" 1756226194 503 17d174ab790891986ed2a295f1609fb1 ""
   "Txt/1-CV-body.tex" 1756309351 2887 128d8b4bfcf63304746c0e460cbe9777 ""
   "Txt/2-page2.tex" 1756226194 1597 7a003a272b78fb950c681afb2177fb10 ""
-  "Txt/p1_sidebar.tex" 1756468273 3635 007bc837bd0e276086615dbd94dfefc0 ""
-  "main.aux" 1756470347 1915 88443af8e6e08a0655694e56cb7543d0 "pdflatex"
-  "main.bbl" 1756307047 17726 b4cf5e8a1f52563c2518cac4d95876c9 "biber main"
-  "main.out" 1756470347 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.run.xml" 1756470347 2321 a1bc113f8501471623a96c0b4f286d15 "pdflatex"
+  "Txt/p1_sidebar.tex" 1756498716 4041 d67af37fc4c6de9867bb131e81ed96a3 ""
+  "main.aux" 1756498717 1915 88443af8e6e08a0655694e56cb7543d0 "pdflatex"
+  "main.bbl" 1756496678 17726 b4cf5e8a1f52563c2518cac4d95876c9 "biber main"
+  "main.out" 1756498717 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.run.xml" 1756498717 2321 a1bc113f8501471623a96c0b4f286d15 "pdflatex"
   "main.tex" 1756470346 6598 4f02361d31e7c03ab66abca1a89e315b ""
   (generated)
   "main.aux"

@@ -1328,13 +1328,8 @@ INPUT Txt/p1_sidebar.tex
 INPUT ./Txt/p1_sidebar.tex
 INPUT ./Txt/p1_sidebar.tex
 INPUT Txt/p1_sidebar.tex
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecrm0900.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecti0800.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/fontawesome5/fa5free0solid.tfm
-INPUT /usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd
-INPUT /usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd
-INPUT /usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd
-INPUT /usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/fontawesome5/fa5free1solid.tfm
 INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
 INPUT ./Txt/2-page2.tex
 INPUT ./Txt/2-page2.tex
@@ -1344,7 +1339,12 @@ INPUT ./Txt/2-page2.tex
 INPUT ./Txt/2-page2.tex
 INPUT Txt/2-page2.tex
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecbx1200.tfm
+INPUT /usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd
+INPUT /usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd
+INPUT /usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd
+INPUT /usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/fontawesome5/fa5free1solid.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecrm0900.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm0900.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/eccc1000.tfm
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
@@ -1370,7 +1370,7 @@ INPUT /home/hsn/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/eccc1000.600p
 INPUT /home/hsn/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm0900.600pk
 INPUT /home/hsn/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk
 INPUT /usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc
-INPUT /home/hsn/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0900.600pk
+INPUT /home/hsn/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti0800.600pk
 INPUT /home/hsn/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1000.600pk
 INPUT /home/hsn/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1000.600pk
 INPUT /home/hsn/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1728.600pk
