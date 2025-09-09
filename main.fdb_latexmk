@@ -1,13 +1,12 @@
 # Fdb version 3
-["biber main"] 1756548187 "main.bcf" "main.bbl" "main" 1756565462
+["biber main"] 1757257780 "main.bcf" "main.bbl" "main" 1757443587
   "Txt/Publications/pub.bib" 1756548187 3896 45ed452024ad3838b1e87a8999a5bf12 ""
-  "main.bcf" 1756565461 107103 342fa8f20a92185dfab2e742001ab94e "pdflatex"
+  "main.bcf" 1757443587 107103 342fa8f20a92185dfab2e742001ab94e "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1756565460 "/home/hsn/LateX/Extensive__adjustable_Curriculum_Vitae__CV_/main.tex" "main.pdf" "main" 1756565462
+["pdflatex"] 1757443586 "/home/hsn/LateX/Extensive__adjustable_Curriculum_Vitae__CV_/main.tex" "main.pdf" "main" 1757443587
   "/etc/texmf/web2c/texmf.cnf" 1755978781 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/hsn/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx0900.600pk" 1756565462 22480 9f45e667441a81a5b24836d3a076127f ""
   "/home/hsn/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1000.600pk" 1756307041 25396 a5ec152df4f251c1e557635e65c5fc48 ""
   "/home/hsn/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk" 1756307051 31928 69d3f0665ab7f62936009898884d1ff3 ""
   "/home/hsn/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx2488.600pk" 1756307046 72264 919602d7cf7abf9cfdf48e6ad36529e0 ""
@@ -30,7 +29,6 @@
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc" 1622837620 2906 e48aa7c95dea478a2e011bcb4f7878c9 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free3.enc" 1622837620 2905 1556c73dc99638e0dfff2f132c244f30 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
-  "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecbx0900.tfm" 1136768653 3584 1a7de6c99457381c64abc1a7c545505f ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecbx1000.tfm" 1136768653 3584 2d666ecf6d466d8b007246bc2f94d9da ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecbx1200.tfm" 1136768653 3584 402da0b29eafbad07963b1224b222f18 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecbx2488.tfm" 1136768653 3584 0181dbc4d429c3ba4e30feba37b5df96 ""
@@ -263,13 +261,13 @@
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1755978790 1405645 60e4923a9b241293cab9baa20d67db26 ""
   "Code/CV.cls" 1756469054 32409 777d58be7b28ceb734a729d4f6cf853f ""
   "Code/Preamble.tex" 1756226194 503 17d174ab790891986ed2a295f1609fb1 ""
-  "Txt/1-CV-body.tex" 1756565460 3047 b4040348a224a8cb269b4495f0271921 ""
+  "Txt/1-CV-body.tex" 1757443586 3331 45484031e50f5c9ce4d2e5329fa01a96 ""
   "Txt/2-page2.tex" 1756226194 1597 7a003a272b78fb950c681afb2177fb10 ""
-  "Txt/p1_sidebar.tex" 1756547636 4575 bd3b1b775e9498d52ef63bc51d25a470 ""
-  "main.aux" 1756565461 1915 88443af8e6e08a0655694e56cb7543d0 "pdflatex"
-  "main.bbl" 1756548188 17726 b4cf5e8a1f52563c2518cac4d95876c9 "biber main"
-  "main.out" 1756565461 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.run.xml" 1756565461 2321 a1bc113f8501471623a96c0b4f286d15 "pdflatex"
+  "Txt/p1_sidebar.tex" 1757412020 4576 bdb6bd6b03b412f77e410483c3e47215 ""
+  "main.aux" 1757443587 1915 88443af8e6e08a0655694e56cb7543d0 "pdflatex"
+  "main.bbl" 1757257781 17726 b4cf5e8a1f52563c2518cac4d95876c9 "biber main"
+  "main.out" 1757443587 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.run.xml" 1757443587 2321 a1bc113f8501471623a96c0b4f286d15 "pdflatex"
   "main.tex" 1756470346 6598 4f02361d31e7c03ab66abca1a89e315b ""
   (generated)
   "main.aux"

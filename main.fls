@@ -1322,7 +1322,6 @@ INPUT Txt/1-CV-body.tex
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecrm1728.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecbx1000.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecrm0900.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecbx0900.tfm
 INPUT ./Txt/p1_sidebar.tex
 INPUT ./Txt/p1_sidebar.tex
 INPUT ./Txt/p1_sidebar.tex
@@ -1373,7 +1372,6 @@ INPUT /home/hsn/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.600p
 INPUT /usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc
 INPUT /home/hsn/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti0800.600pk
 INPUT /home/hsn/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1000.600pk
-INPUT /home/hsn/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx0900.600pk
 INPUT /home/hsn/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0900.600pk
 INPUT /home/hsn/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1000.600pk
 INPUT /home/hsn/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1728.600pk
