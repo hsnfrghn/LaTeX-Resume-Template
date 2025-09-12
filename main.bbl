@@ -258,6 +258,45 @@
       \true{nocite}
       \keyw{knuth,programming}
     \endentry
+    \entry{Lavin24}{software}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ced901c05adf545bcfcc2bc08c1909b2}{%
+           family={{LA24 Core Team}},
+           familyi={L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Vienna, Austria}%
+      }
+      \list{organization}{1}{%
+        {Lavin24 Coopration}%
+      }
+      \strng{namehash}{ced901c05adf545bcfcc2bc08c1909b2}
+      \strng{fullhash}{ced901c05adf545bcfcc2bc08c1909b2}
+      \strng{bibnamehash}{ced901c05adf545bcfcc2bc08c1909b2}
+      \strng{authorbibnamehash}{ced901c05adf545bcfcc2bc08c1909b2}
+      \strng{authornamehash}{ced901c05adf545bcfcc2bc08c1909b2}
+      \strng{authorfullhash}{ced901c05adf545bcfcc2bc08c1909b2}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Tehran, Iran}
+      \field{note}{Computer Software}
+      \field{title}{Lavin24 Protect Video Player}
+      \field{version}{3.6.1}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.lavin24.com/
+      \endverb
+      \verb{url}
+      \verb https://www.lavin24.com/
+      \endverb
+      \warn{\item Overwriting field 'year' with year value from field 'date' for entry 'Lavin24'}
+    \endentry
     \entry{IceCubeThesis}{thesis}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=22cd849c1bcde0abcaead8c4f1a674b2}{%
