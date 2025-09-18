@@ -139,6 +139,76 @@
       \verb https://drive.google.com/file/d/17ySO6ks0rhfz5WtqaIkiuW2KOqvARps-/view?usp=sharing
       \endverb
     \endentry
+    \entry{eventmanagementapi}{software}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=aa6591c9551192d04a47318d5064ea1d}{%
+           family={{H. Forghani Ramandy}},
+           familyi={H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Tehran, Iran}%
+      }
+      \strng{namehash}{aa6591c9551192d04a47318d5064ea1d}
+      \strng{fullhash}{aa6591c9551192d04a47318d5064ea1d}
+      \strng{bibnamehash}{aa6591c9551192d04a47318d5064ea1d}
+      \strng{authorbibnamehash}{aa6591c9551192d04a47318d5064ea1d}
+      \strng{authornamehash}{aa6591c9551192d04a47318d5064ea1d}
+      \strng{authorfullhash}{aa6591c9551192d04a47318d5064ea1d}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Tehran, Iran}
+      \field{note}{Web application for managing events, hosts and attendees}
+      \field{title}{Event Management api}
+      \field{version}{11.0.0.1}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://github.com/hsnfrghn/event-management
+      \endverb
+      \verb{url}
+      \verb https://github.com/hsnfrghn/event-management
+      \endverb
+    \endentry
+    \entry{HBsweetsbot}{software}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=be342f952d0ababc6d65d89bc04c4a68}{%
+           family={{H. Forghani-Ramandy}},
+           familyi={H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Tehran, Iran}%
+      }
+      \strng{namehash}{be342f952d0ababc6d65d89bc04c4a68}
+      \strng{fullhash}{be342f952d0ababc6d65d89bc04c4a68}
+      \strng{bibnamehash}{be342f952d0ababc6d65d89bc04c4a68}
+      \strng{authorbibnamehash}{be342f952d0ababc6d65d89bc04c4a68}
+      \strng{authornamehash}{be342f952d0ababc6d65d89bc04c4a68}
+      \strng{authorfullhash}{be342f952d0ababc6d65d89bc04c4a68}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Dubai, UAE}
+      \field{note}{Telegram Bot}
+      \field{title}{HB Sweets Shop Telegram Bot}
+      \field{version}{3.2.4}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://github.com/HB-Sweets/hb-sweets-dubai/
+      \endverb
+      \verb{url}
+      \verb https://github.com/HB-Sweets/hb-sweets-dubai/
+      \endverb
+    \endentry
     \entry{Kallaxmanual}{manual}{}
       \list{organization}{1}{%
         {Ikea}%
@@ -230,7 +300,7 @@
            familyi={L\bibinitperiod}}}%
       }
       \list{location}{1}{%
-        {Vienna, Austria}%
+        {Tehran, Iran}%
       }
       \list{organization}{1}{%
         {Lavin24 Coopration}%
@@ -248,10 +318,10 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{Tehran, Iran}
-      \field{note}{Computer Software}
+      \field{note}{Windows application}
       \field{title}{Lavin24 Protect Video Player}
-      \field{version}{3.6.1}
-      \field{year}{2019}
+      \field{version}{76.3.4}
+      \field{year}{2021}
       \field{dateera}{ce}
       \true{nocite}
       \verb{urlraw}
@@ -260,7 +330,45 @@
       \verb{url}
       \verb https://www.lavin24.com/
       \endverb
-      \warn{\item Overwriting field 'year' with year value from field 'date' for entry 'Lavin24'}
+    \endentry
+    \entry{LoyalAxis}{software}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7e854479d9968eb0b8658ecadbe45074}{%
+           family={{LoyalAxis Team}},
+           familyi={L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Tehran, Iran}%
+      }
+      \list{organization}{1}{%
+        {LoyalAxis}%
+      }
+      \strng{namehash}{7e854479d9968eb0b8658ecadbe45074}
+      \strng{fullhash}{7e854479d9968eb0b8658ecadbe45074}
+      \strng{bibnamehash}{7e854479d9968eb0b8658ecadbe45074}
+      \strng{authorbibnamehash}{7e854479d9968eb0b8658ecadbe45074}
+      \strng{authornamehash}{7e854479d9968eb0b8658ecadbe45074}
+      \strng{authorfullhash}{7e854479d9968eb0b8658ecadbe45074}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Tehran, Iran}
+      \field{note}{WordPress CRM plugin}
+      \field{title}{LoyalAxis CRM}
+      \field{version}{3.6.1}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://la24crm.com/
+      \endverb
+      \verb{url}
+      \verb https://la24crm.com/
+      \endverb
+      \warn{\item Overwriting field 'year' with year value from field 'date' for entry 'LoyalAxis'}
     \endentry
     \entry{PhysRevD.106.124013}{article}{}
       \name{author}{3}{}{%
@@ -405,44 +513,6 @@
       \endverb
       \verb{url}
       \verb https://link.aps.org/doi/10.1103/PhysRevD.110.104035
-      \endverb
-    \endentry
-    \entry{RCT2019}{software}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=dcdebb6b35bff7c0568bf8c50ef8626d}{%
-           family={{R Core Team}},
-           familyi={R\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Vienna, Austria}%
-      }
-      \list{organization}{1}{%
-        {R Foundation for Statistical Computing}%
-      }
-      \strng{namehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
-      \strng{fullhash}{dcdebb6b35bff7c0568bf8c50ef8626d}
-      \strng{bibnamehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
-      \strng{authorbibnamehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
-      \strng{authornamehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
-      \strng{authorfullhash}{dcdebb6b35bff7c0568bf8c50ef8626d}
-      \field{sortinit}{R}
-      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{Vienna, Austria}
-      \field{note}{Computer Software}
-      \field{title}{R: A Language and Environment for Statistical Computing}
-      \field{version}{3.6.1}
-      \field{year}{2019}
-      \field{dateera}{ce}
-      \true{nocite}
-      \verb{urlraw}
-      \verb https://www.R-project.org/ (EPEL Repo)
-      \endverb
-      \verb{url}
-      \verb https://www.R-project.org/%20(EPEL%20Repo)
       \endverb
     \endentry
     \entry{salam}{inproceedings}{}

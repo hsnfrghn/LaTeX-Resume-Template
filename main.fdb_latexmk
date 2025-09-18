@@ -1,11 +1,11 @@
 # Fdb version 3
-["biber main"] 1758190048 "main.bcf" "main.bbl" "main" 1758190050
-  "Txt/Publications/pub.bib" 1758190048 5016 289735a0f56863e1460044a3d60b024b ""
-  "main.bcf" 1758190050 107103 342fa8f20a92185dfab2e742001ab94e "pdflatex"
+["biber main"] 1758203322 "main.bcf" "main.bbl" "main" 1758203324
+  "Txt/Publications/pub.bib" 1758203322 5318 ff59d1dc02f75a7d2b037843abbb534b ""
+  "main.bcf" 1758203324 107103 342fa8f20a92185dfab2e742001ab94e "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1758190049 "/home/hsn/LateX/Extensive__adjustable_Curriculum_Vitae__CV_/main.tex" "main.pdf" "main" 1758190050
+["pdflatex"] 1758203323 "/home/hsn/LateX/Extensive__adjustable_Curriculum_Vitae__CV_/main.tex" "main.pdf" "main" 1758203324
   "/etc/texmf/web2c/texmf.cnf" 1755978781 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/hsn/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1000.600pk" 1756307041 25396 a5ec152df4f251c1e557635e65c5fc48 ""
   "/home/hsn/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk" 1756307051 31928 69d3f0665ab7f62936009898884d1ff3 ""
@@ -264,10 +264,10 @@
   "Txt/1-CV-body.tex" 1758188595 5669 5f7c121e641e54dba1b6e76b643da32f ""
   "Txt/2-page2.tex" 1758188303 1609 cbba0702e08436b658d400f1ec5ae524 ""
   "Txt/p1_sidebar.tex" 1757443668 4576 bdb6bd6b03b412f77e410483c3e47215 ""
-  "main.aux" 1758190050 1475 07df3a9f0a35ca4b46e7643e3c17cde3 "pdflatex"
-  "main.bbl" 1758190048 20663 f91afa5aaaa95ea0503ba1d341db0069 "biber main"
-  "main.out" 1758190050 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.run.xml" 1758190050 2321 a1bc113f8501471623a96c0b4f286d15 "pdflatex"
+  "main.aux" 1758203324 1664 4d665b75e59da700c10dbb948c186b64 "pdflatex"
+  "main.bbl" 1758203322 23211 89cfb45dda7e176ef66793be55ae9612 "biber main"
+  "main.out" 1758203324 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.run.xml" 1758203324 2321 a1bc113f8501471623a96c0b4f286d15 "pdflatex"
   "main.tex" 1758188768 6604 9469fee5af9aba6a021bec2e7fb8c3bc ""
   (generated)
   "main.aux"
