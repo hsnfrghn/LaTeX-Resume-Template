@@ -796,7 +796,7 @@
         { inproceedings }{ \pubtitle_symbolheading:nn \faUsers { Proceedings } }
         { manual }{ \pubtitle_symbolheading:nn \faWrench { Manuals } }
         { phdthesis }{ \pubtitle_symbolheading:nn \faGraduationCap { Phd ~ Thesis } }
-        { masterthesis }{ \pubtitle_symbolheading:nn \faGraduationCap { Mater ~ Thesis } }
+        { masterthesis }{ \pubtitle_symbolheading:nn \faGraduationCap { Master ~ Thesis } }
         { patent }{ \pubtitle_symbolheading:nn \faCopyright { Patents } }
         { datatype }{ \pubtitle_symbolheading:nn \faDatabase { Raw ~ Data } }
         { software }{ \pubtitle_symbolheading:nn \faCode { Software } }

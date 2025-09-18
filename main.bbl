@@ -102,76 +102,41 @@
       \true{nocite}
       \keyw{physics}
     \endentry
-    \entry{einstein}{article}{}
+    \entry{IceCubeThesis}{thesis}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=3ebf53e52a3ce84f0ffb8553200a6a63}{%
-           family={Einstein},
-           familyi={E\bibinitperiod},
-           given={Albert},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
-      \strng{fullhash}{3ebf53e52a3ce84f0ffb8553200a6a63}
-      \strng{bibnamehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
-      \strng{authorbibnamehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
-      \strng{authornamehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
-      \strng{authorfullhash}{3ebf53e52a3ce84f0ffb8553200a6a63}
-      \field{sortinit}{E}
-      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Annalen der Physik}
-      \field{number}{10}
-      \field{title}{{Zur Elektrodynamik bewegter Körper}. ({German}) [{On} the electrodynamics of moving bodies]}
-      \field{volume}{322}
-      \field{year}{1905}
-      \true{nocite}
-      \field{pages}{891\bibrangedash 921}
-      \range{pages}{31}
-      \verb{doi}
-      \verb http://dx.doi.org/10.1002/andp.19053221004
-      \endverb
-      \keyw{physics}
-    \endentry
-    \entry{oceanthesis}{thesis}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=a86155f45de0b556b8578f5ebf60fe92}{%
-           family={Forghani-Ramandy},
-           familyi={F\bibinithyphendelim R\bibinitperiod},
+        {{un=0,uniquepart=base,hash=255bcd9a1c44d616d4d426c3a5c0f689}{%
+           family={Forghani\bibnamedelima Ramandy},
+           familyi={F\bibinitperiod\bibinitdelim R\bibinitperiod},
            given={Hasan},
            giveni={H\bibinitperiod},
            givenun=0}}%
       }
       \list{institution}{1}{%
-        {University of Copenhagen}%
+        {University of Tehran}%
       }
-      \strng{namehash}{a86155f45de0b556b8578f5ebf60fe92}
-      \strng{fullhash}{a86155f45de0b556b8578f5ebf60fe92}
-      \strng{bibnamehash}{a86155f45de0b556b8578f5ebf60fe92}
-      \strng{authorbibnamehash}{a86155f45de0b556b8578f5ebf60fe92}
-      \strng{authornamehash}{a86155f45de0b556b8578f5ebf60fe92}
-      \strng{authorfullhash}{a86155f45de0b556b8578f5ebf60fe92}
+      \strng{namehash}{255bcd9a1c44d616d4d426c3a5c0f689}
+      \strng{fullhash}{255bcd9a1c44d616d4d426c3a5c0f689}
+      \strng{bibnamehash}{255bcd9a1c44d616d4d426c3a5c0f689}
+      \strng{authorbibnamehash}{255bcd9a1c44d616d4d426c3a5c0f689}
+      \strng{authornamehash}{255bcd9a1c44d616d4d426c3a5c0f689}
+      \strng{authorfullhash}{255bcd9a1c44d616d4d426c3a5c0f689}
       \field{sortinit}{F}
       \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{month}{04}
-      \field{note}{Supervisor: Professor Markus Jochum}
-      \field{subtitle}{Inferring the Causes of Real-World Rogue Waves}
-      \field{title}{An Ocean of Data}
-      \field{type}{phdthesis}
-      \field{year}{2022}
+      \field{month}{09}
+      \field{note}{Supervisor: Professor Mohammad Nouri Zonoz}
+      \field{title}{A study on metamaterial analogs of some of exact solutions of Einstein’s field equations}
+      \field{type}{mathesis}
+      \field{year}{2020}
       \true{nocite}
       \verb{urlraw}
-      \verb https://nbi.ku.dk/english/theses/phd-theses/dion-hfner/
+      \verb https://drive.google.com/file/d/17ySO6ks0rhfz5WtqaIkiuW2KOqvARps-/view?usp=sharing
       \endverb
       \verb{url}
-      \verb https://nbi.ku.dk/english/theses/phd-theses/dion-hfner/
+      \verb https://drive.google.com/file/d/17ySO6ks0rhfz5WtqaIkiuW2KOqvARps-/view?usp=sharing
       \endverb
     \endentry
     \entry{Kallaxmanual}{manual}{}
@@ -297,40 +262,59 @@
       \endverb
       \warn{\item Overwriting field 'year' with year value from field 'date' for entry 'Lavin24'}
     \endentry
-    \entry{IceCubeThesis}{thesis}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=22cd849c1bcde0abcaead8c4f1a674b2}{%
-           family={Leinaas},
-           familyi={L\bibinitperiod},
-           given={Jan\bibnamedelima Erik},
-           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+    \entry{PhysRevD.106.124013}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e084f858d3d2cb9982f47f03b3997b68}{%
+           family={Nouri-Zonoz},
+           familyi={N\bibinithyphendelim Z\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cdc0093cdbe6a21e8fd679cd6bd520e9}{%
+           family={Parvizi},
+           familyi={P\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=44bd3bb80c7a3fad513ea31f530e613f}{%
+           family={Forghani-Ramandy},
+           familyi={F\bibinithyphendelim R\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
            givenun=0}}%
       }
-      \list{institution}{1}{%
-        {NTNU}%
+      \list{publisher}{1}{%
+        {American Physical Society}%
       }
-      \strng{namehash}{22cd849c1bcde0abcaead8c4f1a674b2}
-      \strng{fullhash}{22cd849c1bcde0abcaead8c4f1a674b2}
-      \strng{bibnamehash}{22cd849c1bcde0abcaead8c4f1a674b2}
-      \strng{authorbibnamehash}{22cd849c1bcde0abcaead8c4f1a674b2}
-      \strng{authornamehash}{22cd849c1bcde0abcaead8c4f1a674b2}
-      \strng{authorfullhash}{22cd849c1bcde0abcaead8c4f1a674b2}
-      \field{sortinit}{L}
-      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \strng{namehash}{94a1f446a4fe0026cc990cbb05c691d7}
+      \strng{fullhash}{94a1f446a4fe0026cc990cbb05c691d7}
+      \strng{bibnamehash}{94a1f446a4fe0026cc990cbb05c691d7}
+      \strng{authorbibnamehash}{94a1f446a4fe0026cc990cbb05c691d7}
+      \strng{authornamehash}{94a1f446a4fe0026cc990cbb05c691d7}
+      \strng{authorfullhash}{94a1f446a4fe0026cc990cbb05c691d7}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{subtitle}{Could Decaying Dark Matter explain the high energy Neutrino Excess?}
-      \field{title}{Maximum Likelihood Analysis of IceCube Data}
-      \field{type}{mathesis}
-      \field{year}{2015}
+      \field{issue}{12}
+      \field{journaltitle}{Phys. Rev. D}
+      \field{month}{12}
+      \field{title}{Metamaterial analog of a black hole shadow: An exact ray-tracing simulation based on the spacetime index of refraction}
+      \field{volume}{106}
+      \field{year}{2022}
       \true{nocite}
+      \field{pages}{124013}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevD.106.124013
+      \endverb
       \verb{urlraw}
-      \verb http://hdl.handle.net/11250/2352046
+      \verb https://link.aps.org/doi/10.1103/PhysRevD.106.124013
       \endverb
       \verb{url}
-      \verb http://hdl.handle.net/11250/2352046
+      \verb https://link.aps.org/doi/10.1103/PhysRevD.106.124013
       \endverb
     \endentry
     \entry{youtube-overleaf}{online}{}
@@ -367,6 +351,61 @@
       \verb https://www.youtube.com/watch?v=oq117ouVqJs
       \endverb
       \keyw{video}
+    \endentry
+    \entry{PhysRevD.110.104035}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=cdc0093cdbe6a21e8fd679cd6bd520e9}{%
+           family={Parvizi},
+           familyi={P\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=44bd3bb80c7a3fad513ea31f530e613f}{%
+           family={Forghani-Ramandy},
+           familyi={F\bibinithyphendelim R\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e084f858d3d2cb9982f47f03b3997b68}{%
+           family={Nouri-Zonoz},
+           familyi={N\bibinithyphendelim Z\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society}%
+      }
+      \strng{namehash}{5945943b131c0866519a5b6a12735831}
+      \strng{fullhash}{5945943b131c0866519a5b6a12735831}
+      \strng{bibnamehash}{5945943b131c0866519a5b6a12735831}
+      \strng{authorbibnamehash}{5945943b131c0866519a5b6a12735831}
+      \strng{authornamehash}{5945943b131c0866519a5b6a12735831}
+      \strng{authorfullhash}{5945943b131c0866519a5b6a12735831}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{10}
+      \field{journaltitle}{Phys. Rev. D}
+      \field{month}{11}
+      \field{title}{Photon rings in the metamaterial analog of a gravitomagnetic monopole}
+      \field{volume}{110}
+      \field{year}{2024}
+      \true{nocite}
+      \field{pages}{104035}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevD.110.104035
+      \endverb
+      \verb{urlraw}
+      \verb https://link.aps.org/doi/10.1103/PhysRevD.110.104035
+      \endverb
+      \verb{url}
+      \verb https://link.aps.org/doi/10.1103/PhysRevD.110.104035
+      \endverb
     \endentry
     \entry{RCT2019}{software}{}
       \name{author}{1}{}{%
