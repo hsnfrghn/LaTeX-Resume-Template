@@ -1,11 +1,11 @@
 # Fdb version 3
-["biber main"] 1757679003 "main.bcf" "main.bbl" "main" 1757679006
+["biber main"] 1757679003 "main.bcf" "main.bbl" "main" 1758031399
   "Txt/Publications/pub.bib" 1757679002 4270 9e29f9be8ccbf28799167903eb6bf76e ""
-  "main.bcf" 1757679006 107103 342fa8f20a92185dfab2e742001ab94e "pdflatex"
+  "main.bcf" 1758031399 107103 342fa8f20a92185dfab2e742001ab94e "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1757679005 "/home/hsn/LateX/Extensive__adjustable_Curriculum_Vitae__CV_/main.tex" "main.pdf" "main" 1757679006
+["pdflatex"] 1758031398 "/home/hsn/LateX/Extensive__adjustable_Curriculum_Vitae__CV_/main.tex" "main.pdf" "main" 1758031399
   "/etc/texmf/web2c/texmf.cnf" 1755978781 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/hsn/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1000.600pk" 1756307041 25396 a5ec152df4f251c1e557635e65c5fc48 ""
   "/home/hsn/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk" 1756307051 31928 69d3f0665ab7f62936009898884d1ff3 ""
@@ -261,13 +261,13 @@
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1755978790 1405645 60e4923a9b241293cab9baa20d67db26 ""
   "Code/CV.cls" 1756469054 32409 777d58be7b28ceb734a729d4f6cf853f ""
   "Code/Preamble.tex" 1756226194 503 17d174ab790891986ed2a295f1609fb1 ""
-  "Txt/1-CV-body.tex" 1757678567 3958 c429f7617b0828ee3e53bfd1a39ed5be ""
+  "Txt/1-CV-body.tex" 1758031398 5678 7f35c7b3bf8869e2a0d386da5218281e ""
   "Txt/2-page2.tex" 1756226194 1597 7a003a272b78fb950c681afb2177fb10 ""
   "Txt/p1_sidebar.tex" 1757443668 4576 bdb6bd6b03b412f77e410483c3e47215 ""
-  "main.aux" 1757679006 2002 458b5af7d120693cdcae679434bb5418 "pdflatex"
+  "main.aux" 1758031399 2002 458b5af7d120693cdcae679434bb5418 "pdflatex"
   "main.bbl" 1757679003 19157 227c3f1ffd8859bba7aa81a2f5d76532 "biber main"
-  "main.out" 1757679006 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.run.xml" 1757679006 2321 a1bc113f8501471623a96c0b4f286d15 "pdflatex"
+  "main.out" 1758031399 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.run.xml" 1758031399 2321 a1bc113f8501471623a96c0b4f286d15 "pdflatex"
   "main.tex" 1757508109 6604 9469fee5af9aba6a021bec2e7fb8c3bc ""
   (generated)
   "main.aux"
