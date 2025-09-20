@@ -102,14 +102,72 @@
       \true{nocite}
       \keyw{physics}
     \endentry
+    \entry{schmetamaterial}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{un=2,uniquepart=given,hash=befeb76ea68ff324d12c813b83094049}{%
+           family={Forghani\bibnamedelima Ramandy},
+           familyi={F\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=2}}%
+        {{un=0,uniquepart=base,hash=1d1b81c1f63016be3dd761c5626ece24}{%
+           family={Nouri\bibnamedelima Zonoz},
+           familyi={N\bibinitperiod\bibinitdelim Z\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Tehran}%
+      }
+      \list{publisher}{1}{%
+        {The physics Society of Iran}%
+      }
+      \strng{namehash}{be03b59e22d8358b20cc2bcd7f2d0782}
+      \strng{fullhash}{be03b59e22d8358b20cc2bcd7f2d0782}
+      \strng{bibnamehash}{be03b59e22d8358b20cc2bcd7f2d0782}
+      \strng{authorbibnamehash}{be03b59e22d8358b20cc2bcd7f2d0782}
+      \strng{authornamehash}{be03b59e22d8358b20cc2bcd7f2d0782}
+      \strng{authorfullhash}{be03b59e22d8358b20cc2bcd7f2d0782}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booksubtitle}{General relativity \& Optics}
+      \field{booktitle}{Gravitation \& Cosmology}
+      \field{booktitleaddon}{Proceedings of the {National Meeting on Gravitation and Cosmology}}
+      \field{eventday}{28}
+      \field{eventendday}{29}
+      \field{eventendmonth}{1}
+      \field{eventendyear}{2021}
+      \field{eventmonth}{1}
+      \field{eventyear}{2021}
+      \field{title}{Light trajectories in metamaterial analog of Schwarzschild spacetime}
+      \field{venue}{Physics Department, Shahib Beheshti University}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{eventenddateera}{ce}
+      \field{eventdateera}{ce}
+      \true{nocite}
+      \field{pages}{24\bibrangedash 27}
+      \range{pages}{4}
+      \verb{urlraw}
+      \verb https://www.psi.ir/farsi.asp?page=ngc99
+      \endverb
+      \verb{url}
+      \verb https://www.psi.ir/farsi.asp?page=ngc99
+      \endverb
+    \endentry
     \entry{IceCubeThesis}{thesis}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=255bcd9a1c44d616d4d426c3a5c0f689}{%
+        {{un=2,uniquepart=given,hash=255bcd9a1c44d616d4d426c3a5c0f689}{%
            family={Forghani\bibnamedelima Ramandy},
            familyi={F\bibinitperiod\bibinitdelim R\bibinitperiod},
            given={Hasan},
            giveni={H\bibinitperiod},
-           givenun=0}}%
+           givenun=2}}%
       }
       \list{institution}{1}{%
         {University of Tehran}%
@@ -460,6 +518,70 @@
       \endverb
       \keyw{video}
     \endentry
+    \entry{nutmetamaterial}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=cdc0093cdbe6a21e8fd679cd6bd520e9}{%
+           family={Parvizi},
+           familyi={P\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=2,uniquepart=given,hash=befeb76ea68ff324d12c813b83094049}{%
+           family={Forghani\bibnamedelima Ramandy},
+           familyi={F\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=2}}%
+        {{un=0,uniquepart=base,hash=1d1b81c1f63016be3dd761c5626ece24}{%
+           family={Nouri\bibnamedelima Zonoz},
+           familyi={N\bibinitperiod\bibinitdelim Z\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Damghan}%
+      }
+      \list{publisher}{1}{%
+        {The physics Society of Iran}%
+      }
+      \strng{namehash}{6f5bb11a2d6a834370731daffa88aa9f}
+      \strng{fullhash}{6f5bb11a2d6a834370731daffa88aa9f}
+      \strng{bibnamehash}{6f5bb11a2d6a834370731daffa88aa9f}
+      \strng{authorbibnamehash}{6f5bb11a2d6a834370731daffa88aa9f}
+      \strng{authornamehash}{6f5bb11a2d6a834370731daffa88aa9f}
+      \strng{authorfullhash}{6f5bb11a2d6a834370731daffa88aa9f}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booksubtitle}{General relativity \& Optics}
+      \field{booktitle}{Gravitation \& Cosmology}
+      \field{booktitleaddon}{Proceedings of the {National Meeting on Gravitation and Cosmology}}
+      \field{eventday}{24}
+      \field{eventendday}{25}
+      \field{eventendmonth}{1}
+      \field{eventendyear}{2024}
+      \field{eventmonth}{1}
+      \field{eventyear}{2024}
+      \field{title}{Photon rings in the metamaterial analog of a gravitomagnetic monopole}
+      \field{venue}{Physics Department, Damghan University}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{eventenddateera}{ce}
+      \field{eventdateera}{ce}
+      \true{nocite}
+      \field{pages}{22\bibrangedash 25}
+      \range{pages}{4}
+      \verb{urlraw}
+      \verb https://www.psi.ir/upload/1402/ngc1402/pages/proceedings.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.psi.ir/upload/1402/ngc1402/pages/proceedings.pdf
+      \endverb
+    \endentry
     \entry{PhysRevD.110.104035}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=cdc0093cdbe6a21e8fd679cd6bd520e9}{%
@@ -514,62 +636,6 @@
       \verb{url}
       \verb https://link.aps.org/doi/10.1103/PhysRevD.110.104035
       \endverb
-    \endentry
-    \entry{salam}{inproceedings}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=5196fd7e08485dbc6a7dd05adc133fdf}{%
-           family={Salam},
-           familyi={S\bibinitperiod},
-           given={Abdus},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-      }
-      \name{editor}{1}{}{%
-        {{hash=d0ec890e59163c24c111a08d2a4be982}{%
-           family={Svartholm},
-           familyi={S\bibinitperiod},
-           given={Nils},
-           giveni={N\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Stockholm}%
-      }
-      \list{publisher}{1}{%
-        {Almquist \& Wiksell}%
-      }
-      \strng{namehash}{5196fd7e08485dbc6a7dd05adc133fdf}
-      \strng{fullhash}{5196fd7e08485dbc6a7dd05adc133fdf}
-      \strng{bibnamehash}{5196fd7e08485dbc6a7dd05adc133fdf}
-      \strng{authorbibnamehash}{5196fd7e08485dbc6a7dd05adc133fdf}
-      \strng{authornamehash}{5196fd7e08485dbc6a7dd05adc133fdf}
-      \strng{authorfullhash}{5196fd7e08485dbc6a7dd05adc133fdf}
-      \strng{editorbibnamehash}{d0ec890e59163c24c111a08d2a4be982}
-      \strng{editornamehash}{d0ec890e59163c24c111a08d2a4be982}
-      \strng{editorfullhash}{d0ec890e59163c24c111a08d2a4be982}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booksubtitle}{Relativistic groups and analyticity}
-      \field{booktitle}{Elementary particle theory}
-      \field{booktitleaddon}{Proceedings of the {Eighth Nobel Symposium}}
-      \field{eventday}{19}
-      \field{eventendday}{25}
-      \field{eventendmonth}{5}
-      \field{eventendyear}{1968}
-      \field{eventmonth}{5}
-      \field{eventyear}{1968}
-      \field{title}{Weak and Electromagnetic Interactions}
-      \field{venue}{Aspenäsgarden, Lerum}
-      \field{year}{1968}
-      \field{dateera}{ce}
-      \field{eventenddateera}{ce}
-      \field{eventdateera}{ce}
-      \true{nocite}
-      \field{pages}{367\bibrangedash 377}
-      \range{pages}{11}
     \endentry
     \entry{lightbulb}{patent}{}
       \name{author}{1}{}{%
