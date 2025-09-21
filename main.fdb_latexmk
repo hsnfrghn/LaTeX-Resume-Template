@@ -1,11 +1,11 @@
 # Fdb version 3
-["biber main"] 1758366984 "main.bcf" "main.bbl" "main" 1758379884
-  "Txt/Publications/pub.bib" 1758366983 6146 ab107da03893ae6673e9637eb17b7774 ""
-  "main.bcf" 1758379884 107103 342fa8f20a92185dfab2e742001ab94e "pdflatex"
+["biber main"] 1758381526 "main.bcf" "main.bbl" "main" 1758381530
+  "Txt/Publications/pub.bib" 1758380320 6146 ab107da03893ae6673e9637eb17b7774 ""
+  "main.bcf" 1758381530 107103 342fa8f20a92185dfab2e742001ab94e "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1758379883 "/home/hsn/LateX/Extensive__adjustable_Curriculum_Vitae__CV_/main.tex" "main.pdf" "main" 1758379884
+["pdflatex"] 1758381529 "/home/hsn/LateX/Extensive__adjustable_Curriculum_Vitae__CV_/main.tex" "main.pdf" "main" 1758381530
   "/etc/texmf/web2c/texmf.cnf" 1755978781 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/hsn/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1000.600pk" 1756307041 25396 a5ec152df4f251c1e557635e65c5fc48 ""
   "/home/hsn/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk" 1756307051 31928 69d3f0665ab7f62936009898884d1ff3 ""
@@ -263,11 +263,11 @@
   "Code/Preamble.tex" 1756226194 503 17d174ab790891986ed2a295f1609fb1 ""
   "Txt/1-CV-body.tex" 1758379883 5694 0cf419cf4ca26f41dd1a6af88ee0453c ""
   "Txt/2-page2.tex" 1758188303 1609 cbba0702e08436b658d400f1ec5ae524 ""
-  "Txt/p1_sidebar.tex" 1757443668 4576 bdb6bd6b03b412f77e410483c3e47215 ""
-  "main.aux" 1758379884 1768 ce4a02ece13fdce087e50952181bdd1f "pdflatex"
-  "main.bbl" 1758366984 25915 947b76b7ee991d52f01173ca4fb5651f "biber main"
-  "main.out" 1758379883 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.run.xml" 1758379884 2321 a1bc113f8501471623a96c0b4f286d15 "pdflatex"
+  "Txt/p1_sidebar.tex" 1758381525 4716 41d6789aa682b21e85bfa7e06e04f8cd ""
+  "main.aux" 1758381530 1768 ce4a02ece13fdce087e50952181bdd1f "pdflatex"
+  "main.bbl" 1758381527 25915 947b76b7ee991d52f01173ca4fb5651f "biber main"
+  "main.out" 1758381530 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.run.xml" 1758381530 2321 a1bc113f8501471623a96c0b4f286d15 "pdflatex"
   "main.tex" 1758188768 6604 9469fee5af9aba6a021bec2e7fb8c3bc ""
   (generated)
   "main.aux"
