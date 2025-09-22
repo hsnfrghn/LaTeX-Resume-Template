@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2025.8.23)  20 SEP 2025 18:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2025.8.23)  22 SEP 2025 11:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1088,12 +1088,7 @@ LaTeX Font Info:    Trying to load font information for U+fontawesomebrands1 on 
  (/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands1.fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands1/solid/n' in size <8> not available
 (Font)              Font shape `U/fontawesomebrands1/regular/n' tried instead on input line 86.
- (./Txt/1-CV-body.tex) (./Txt/p1_sidebar.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 1--118
-
- []
-
-[1
+ (./Txt/1-CV-body.tex) (./Txt/p1_sidebar.tex) [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./Txt/2-page2.tex
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on input line 5.
@@ -1115,15 +1110,15 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 Here is how much of TeX's memory you used:
  42322 strings out of 480247
  863409 string characters out of 5896151
- 1684804 words of memory out of 5000000
+ 1685804 words of memory out of 5000000
  59629 multiletter control sequences out of 15000+600000
  484697 words of font info for 61 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  114i,11n,118p,797b,1725s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free3.enc} </home/hsn/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1000.600pk> </home/hsn/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/eccc1000.600pk> </home/hsn/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm0900.600pk> </home/hsn/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk>{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc} </home/hsn/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti1000.600pk> </home/hsn/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti0800.600pk> </home/hsn/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1000.600pk> </home/hsn/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0900.600pk> </home/hsn/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti0900.600pk> </home/hsn/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1000.600pk> </home/hsn/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1728.600pk>{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc} </home/hsn/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0800.600pk>{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc} </home/hsn/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk> </home/hsn/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx2488.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb>
-Output written on main.pdf (2 pages, 196057 bytes).
+Output written on main.pdf (2 pages, 199584 bytes).
 PDF statistics:
- 601 PDF objects out of 1000 (max. 8388607)
+ 613 PDF objects out of 1000 (max. 8388607)
  137 compressed objects within 2 object streams
  12 named destinations out of 1000 (max. 500000)
  157 words of extra memory for PDF output out of 10000 (max. 10000000)
