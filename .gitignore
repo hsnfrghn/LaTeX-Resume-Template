@@ -1,3 +1,21 @@
+## Project-specific
+##-------------------------------
+## `main.pdf` is a build artifact: latexmk stamps it with a timestamp/ID, so it
+## comes out binary-different on every run even when the content is unchanged.
+## The shipped copies are tracked deliberately -- see CLAUDE.md ("Build"):
+##     cp main.pdf Forghani_Resume.pdf
+main.pdf
+
+## Editor / OS junk:
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+## Claude Code local (machine-specific) settings:
+.claude/settings.local.json
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof

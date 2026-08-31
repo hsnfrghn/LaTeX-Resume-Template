@@ -21,20 +21,26 @@ bibliography — publications come from `Txt/Publications/pub.bib` via biblatex.
 
 There is no test suite. The build *is* the test: a clean exit and a 2-page `main.pdf` means it passes.
 
-Shipping a new version means copying the build output by hand — `main.pdf` and `Forghani_Resume.pdf`
-are byte-identical in the current commit, and the older release is kept as `OLD_Forghani_Resume.pdf`:
+Shipping a new version means copying the build output by hand. `main.pdf` is *not* tracked, so the
+release is whatever you copy over `Forghani_Resume.pdf`; the previous release is kept as
+`OLD_Forghani_Resume.pdf`:
 
 ```bash
 cp main.pdf Forghani_Resume.pdf
 ```
 
-### Build artifacts are tracked
+### Build artifacts are not tracked
 
-`.gitignore` lists the usual LaTeX aux files, but `main.pdf`, `main.log`, `main.aux`, `main.bbl`,
-`main.bcf`, `main.blg`, `main.fls`, `main.fdb_latexmk`, `main.run.xml` and `main.synctex.gz` were
-committed before those rules applied and remain tracked. Any build dirties the working tree. Either
-`git checkout --` them after an exploratory build, or commit them along with the content change —
-past commits do the latter. `main.out` is tracked and empty; leave it.
+Every LaTeX aux file plus `main.pdf` is ignored, so a build leaves the working tree clean and you can
+rebuild freely without dirtying `git status`. `main.pdf` is ignored specifically because latexmk stamps
+it with a timestamp/ID — it comes out binary-different on every run even when the content is identical,
+which is what used to make every commit carry a meaningless PDF diff.
+
+The only tracked PDFs are the deliverables, `Forghani_Resume.pdf` and `OLD_Forghani_Resume.pdf`, which
+change only when you deliberately copy a new release over them.
+
+History note: these artifacts *were* tracked up to and including commit `956742b`, so older commits
+still contain them and diffs reaching across that boundary will show them being removed.
 
 ## The two-page hard limit
 
