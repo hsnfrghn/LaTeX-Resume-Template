@@ -39,7 +39,7 @@
 \vonname{}
 \lastname{Forghani Ramandy}
 %
-\tagline{Full-Stack Developer (Web \& Windows)}
+\tagline{Software Engineer (Web \& Windows)}
 % \photo{2.8cm}{Img/Profile.png}
 \personalinfo{%
 %%   Not all of these are required!
@@ -57,11 +57,20 @@
 %   \facebook{hasan.forghani.ramandy}
  
 % \end{tabular}
-\begin{tabular}{l l l}
-    \email{hasan.forghani25@gmail.com} & \location{Tehran City, Tehran, IRAN} &  \phone{+98 933 1151579} \\ % Email and location in the first two columns, third empty
-    \linkedin{hasan-forghani-ramandy} & \github{hsnfrghn} & \orcid{0000-0001-5215-4309} \\ % LinkedIn, GitHub, and ORCID
-    \facebook{hasan.forghani.ramandy} & \researchgate{hasan-forghani} & \\ % ResearchGate, Facebook, and Phone
+
+% Hsn added: centre-align the two info bars. The \centering group needs the
+% Hsn added: closing \par to take effect on the final line, and the explicit \\
+% Hsn added: stacks the link bar under the contact bar instead of relying on the
+% Hsn added: line simply overflowing (the two tabulars were only separated by a
+% Hsn added: space token before, so the break was accidental rather than intended).
+% {\centering
+\begin{tabular}{l l l} 
+    \email{hasan.forghani25@gmail.com} & \location{Tehran City, Tehran, IRAN} & \phone{+98 933 1151579} % Email and location in the first two columns, third Phone
+\end{tabular}\\
+\begin{tabular}{l l l l}
+    \linkedin{hasan-forghani-ramandy} & \github{hsnfrghn} & \researchgate{Hasan-Forghani} & \orcid{0000-0001-5215-4309}  % LinkedIn, GitHub, ResearchGate and ORCID
 \end{tabular}
+% \par}
 
 %   \birthday{DD.MM.YYYY} \\
 %   \mailaddress{Address, Street, 00000 County} \\

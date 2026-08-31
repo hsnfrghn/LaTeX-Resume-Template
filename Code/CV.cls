@@ -541,7 +541,7 @@
 \newcommand{\orcid}[1]{\printinfo{\orcidsymbol}{\href{https://orcid.org/#1}{#1}}}
 \newcommand{\facebook}[1]{\printinfo{\facebooksymbol}{\href{https://facebook.com/#1}{#1}}}
 % General command for providing links in link header:
-\newcommand{\researchgate}[2]{\printinfo{\researchgatesymbol}{\href{https://researchgate.com/profile/#1}{#1}}}
+\newcommand{\researchgate}[1]{\printinfo{\researchgatesymbol}{\href{https://researchgate.net/profile/#1}{#1}}}
 %................................................................
 %
 %                       Language section
