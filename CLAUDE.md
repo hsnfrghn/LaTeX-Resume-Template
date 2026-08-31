@@ -8,6 +8,24 @@ A LaTeX résumé/CV for Hasan Forghani Ramandy, built on a customized fork of Ve
 two-page CV class (CC BY 4.0). It is a document, not an application — "the code" is the class file
 plus a set of content fragments.
 
+## Working rules
+
+These are the user's standing instructions for this project. They override the default workflow.
+
+- **Comment every edit.** Each part you add or change gets a comment that begins with `Hsn added: `
+  — in LaTeX, `% Hsn added: <what and why>`. (Some older entries use `% Added by HSN`; that was the
+  earlier ad-hoc form. Use `% Hsn added: ` for anything new.)
+- **Stop after each edit for verification.** Make the one requested edit, then hand it back. Do not
+  commit — the user reviews first and will explicitly ask for the commit.
+- **Never build or test unless asked.** Do not run `latexmk`, `pdflatex`, or anything else to "check"
+  an edit. The user drives builds. This includes the 2-page check: flag a change that looks likely to
+  overflow, but do not compile to confirm unless asked.
+- **Preserve existing conventions.** Match the surrounding format, reuse the class's existing macros
+  and environments, and follow the established entry patterns rather than inventing new ones. Prefer
+  editing `Txt/*.tex` over `Code/CV.cls`.
+
+Edits arrive one at a time — expect a sequence, and apply only what was asked for in each.
+
 ## Build
 
 ```bash
@@ -101,4 +119,7 @@ it appear automatically — and can silently push the document past the page lim
 
 Most requests are content changes to `Txt/*.tex`. Prefer those over touching `Code/CV.cls`; the class
 is upstream code carrying its own copyright notice, and local changes to it are hard to distinguish
-from upstream when diffing. After any content edit, rebuild and confirm the page count is still 2.
+from upstream when diffing.
+
+The 2-page limit still governs what fits, but per the working rules above, confirming it is the user's
+call — do not rebuild on your own to check.
