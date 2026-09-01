@@ -21,3 +21,47 @@
 \definecolor{deep_purple}{HTML}{591F93}
 
 \usepackage{lipsum}
+% Layout: page-1 column widths
+%--------------------
+% Hsn added: narrow the page-1 gutter and reclaim the 0.9cm that was previously
+% Hsn added: left unused at the right margin (the class budgeted -0.5 + 10 + 1 + 5
+% Hsn added: = 15.5cm against a \textwidth of 16.4cm, so the sidebar never reached
+% Hsn added: the right margin). New budget: -0.5 + 10.9 + 0.5 + 5.5 = 16.4cm.
+% Hsn added: Redefined here rather than edited in Code/CV.cls so the upstream class
+% Hsn added: file stays byte-identical to upstream and every local change is in one
+% Hsn added: diffable place. The \hspace{-0.5cm} overhang is kept deliberately: it is
+% Hsn added: what aligns the body block and its section rules with the header text.
+\newlength{\CVbodywidth}  \setlength{\CVbodywidth}{10.9cm}
+\newlength{\CVgutter}     \setlength{\CVgutter}{0.5cm}
+\newlength{\CVsidewidth}  \setlength{\CVsidewidth}{5.5cm}
+
+\renewenvironment{CVsidebar}{%
+        \begin{minipage}[t]{\CVsidewidth}\raggedright
+    }{%
+        \end{minipage}
+    }%
+\renewenvironment{CVbody}{%
+        \hspace{-0.5cm}\begin{minipage}[t]{\CVbodywidth}\raggedright
+    }{%
+        \end{minipage}\hspace{\CVgutter}
+    }%
+
+% Experience entry macro
+%--------------------
+% Hsn added: single entry macro for Experience. Every position now carries a start
+% Hsn added: date, end date and employment type; centralising the layout here keeps
+% Hsn added: the five entries identical by construction and makes a future restyle a
+% Hsn added: one-line change. Line 1 is title (bold, left) + dates (accent, right) so
+% Hsn added: the two scan columns a recruiter reads align; line 2 carries company,
+% Hsn added: city and employment type, which is worth the space because not all five
+% Hsn added: positions are full-time.
+% Hsn added: \hspace{\stretch{1}} rather than \hfill: inside CVbody \raggedright sets
+% Hsn added: \rightskip to 0pt plus 1fil, which would split the slack with an \hfill
+% Hsn added: and leave the dates floating mid-line. \stretch{1} is fill-order, so it
+% Hsn added: wins and the dates sit flush against the right edge of the column.
+% #1 title  #2 company  #3 city  #4 employment type  #5 dates
+\newcommand{\CVjob}[5]{%
+  \textbf{#1}\hspace{\stretch{1}}{\small\textcolor{icons}{\textit{#5}}}\\[0.1em]
+  {\small\softtext{\textit{#2, #3}}~\softtext{\textbullet}~\textcolor{icons}{#4}}\par
+  \vspace{0.15em}%
+}

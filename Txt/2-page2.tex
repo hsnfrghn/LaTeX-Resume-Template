@@ -1,5 +1,33 @@
 %\begin{CVbody}
 
+% Hsn added: new hand-written Projects section, placed above Publications. Shipped
+% Hsn added: commercial software used to be filed under PUBLICATIONS as @software bib
+% Hsn added: entries, where biblatex rendered a GitHub side project as a citation
+% Hsn added: ("Event Management api. Tehran, Iran. Version 11.0.0.1") and duplicated
+% Hsn added: LoyalAxis and Lavin24, which are already full Experience entries on page 1.
+% Hsn added: Two lines each: line 1 is name, stack and a visible link; line 2 is one
+% Hsn added: sentence on what it does and for whom. Links are printed as visible text
+% Hsn added: rather than as bare hyperlinks so they survive printing and machine parsing.
+\section{Selected Projects}
+
+\textbf{AI Nutrition Coach} ~\softtext{\textbullet}~ {\small \textit{Django, PostgreSQL, React, OpenAI API}} \hfill {\small \softtext{[live URL, or drop if client-confidential]}} \\
+{\small Chat-interface diet-coaching web app; designed and built end to end at Sidraw.}
+
+\vspace{0.5em}
+
+\textbf{Palmistry Telegram Bot} ~\softtext{\textbullet}~ {\small \textit{Flask, OpenAI API}} \hfill {\small \softtext{[@handle]}} \\
+{\small Live conversational bot that generates readings from user-submitted images.}
+
+\vspace{0.5em}
+
+\textbf{tehrandarou.com} ~\softtext{\textbullet}~ {\small \textit{Next.js}} \hfill {\small \href{https://tehrandarou.com}{tehrandarou.com}} \\
+{\small Client-facing commercial front end, designed and delivered at Sidraw.}
+
+\vspace{0.5em}
+
+\textbf{Event Management API} ~\softtext{\textbullet}~ {\small \textit{REST API}} \hfill {\small \href{https://github.com/hsnfrghn/event-management}{github.com/hsnfrghn/event-management}} \\
+{\small Open-source API for events, hosts and attendees --- the one project whose code a reviewer can actually read.}
+
 \section{Publications}
 
 \printbibliography[ heading=pubtype, type=thesis, title={\pubtitle{thesis}} ]
@@ -10,7 +38,12 @@
 
 % \printbibliography[ heading=pubtype, type=report, title={\pubtitle{report}} ]
 
-\printbibliography[ heading=pubtype, type=software, title={\pubtitle{software}} ]
+% Hsn added: suppressed -- shipped software now has a hand-written Projects section
+% Hsn added: above. Citation formatting (version numbers, city, self-citation) is wrong
+% Hsn added: for a portfolio, and LoyalAxis/Lavin24 were being listed twice: once as
+% Hsn added: Experience entries on page 1 and again as "publications" here. pub.bib is
+% Hsn added: left untouched -- the four @software entries simply stop printing.
+% \printbibliography[ heading=pubtype, type=software, title={\pubtitle{software}} ]
 
 \printbibliography[ heading=pubtype, type=inproceedings, title={\pubtitle{inproceedings}} ]
 
@@ -21,6 +54,24 @@
 % \printbibliography[ heading=pubtype, type=manual, title={\pubtitle{manual}} ]
 
 % \printbibliography[ heading=pubtype, type=patent, title={\pubtitle{patent}} ]
+
+
+% Hsn added: Courses & Training, kept deliberately narrow. For an engineer with 8+
+% Hsn added: years of shipped production software, coursework is weak evidence on its
+% Hsn added: own and cannot buy page-1 space -- but a visible pivot into AI work needs
+% Hsn added: two things to be believed: shipped products and deliberate study. The two
+% Hsn added: production LLM products supply the first; this line supplies the second.
+% Hsn added: Filter, applied strictly: recognisable issuers only (DeepLearning.AI,
+% Hsn added: fast.ai, Coursera/Stanford, Hugging Face, or a named university/institute
+% Hsn added: for the in-person courses). Unbranded courses are omitted -- an
+% Hsn added: unrecognisable issuer reads as padding and makes a reader discount the
+% Hsn added: credible lines beside it. Where a course produced a capstone that became
+% Hsn added: one of the projects above, say so; that link is worth more than the name.
+% Hsn added: PLACEHOLDER -- blocked on Hasan supplying names, issuers and years
+% Hsn added: (PLAN.md open question 3). Delete this section if it stays unfilled.
+\section{Courses \& Training}
+
+{\small [Issuer] --- [Course name], [Year] ~\softtext{\textbullet}~ [Issuer] --- [Course name], [Year]}
 
 
 % INFORMATION ABOUT PUBTITLE COMMAND:
