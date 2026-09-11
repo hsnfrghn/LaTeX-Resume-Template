@@ -46,6 +46,37 @@
         \end{minipage}\hspace{\CVgutter}
     }%
 
+% Bullet list spacing
+%--------------------
+% Hsn added: PLAN.md R1 cut lever 2, applied after the build hit the 2-page fatal error.
+% Hsn added: itemlist is defined in Code/CV.cls with \itemsep 5pt; redefined here rather
+% Hsn added: than edited there, for the same reason the column widths are (D2) -- the
+% Hsn added: upstream class stays byte-identical and every local change is in one place.
+% Hsn added: Three savings, all free of content loss:
+% Hsn added: (1) \itemsep 5pt -> 2pt. This is the gap *between* items, so with 10 bullets
+% Hsn added:     in five lists there are five such gaps: 15pt, about a line and a half.
+% Hsn added: (2) \topsep and \partopsep to 0pt. These are the bigger win -- itemize adds
+% Hsn added:     them above and below every list, so five lists pay it ten times over.
+% Hsn added:     Both must be set before \begin{itemize}, not after: \list reads them when
+% Hsn added:     the list opens, so setting them inside (as the class does for \itemsep,
+% Hsn added:     \parskip and \parsep, which are per-item and therefore fine there) would
+% Hsn added:     be too late to have any effect.
+% Hsn added: (3) \leftmargini 2.5em -> 1.2em. itemize indents every bullet by ~2em, which
+% Hsn added:     is width taken straight out of a 10.9cm column and paid back in wrapped
+% Hsn added:     lines. It must be set outside the environment, since \list reads it when
+% Hsn added:     the list begins.
+\renewenvironment{itemlist}{%
+        \setlength{\leftmargini}{1.2em}%
+        \setlength{\topsep}{0pt}%
+        \setlength{\partopsep}{0pt}%
+        \begin{itemize}
+        \setlength{\itemsep}{2pt}
+        \setlength{\parskip}{0pt}
+        \setlength{\parsep}{0pt}
+    }{%
+        \end{itemize}%
+    }%
+
 % Experience entry macro
 %--------------------
 % Hsn added: single entry macro for Experience. Every position now carries a start
