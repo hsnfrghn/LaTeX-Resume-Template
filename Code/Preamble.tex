@@ -77,6 +77,21 @@
         \end{itemize}%
     }%
 
+% Sidebar separator spacing
+%--------------------
+% Hsn added: \dotline is defined in Code/CV.cls ending in \medskip (~6pt). It is used in
+% Hsn added: exactly one place, the page-1 sidebar, six times -- 36pt of pure white space
+% Hsn added: in the column that decides whether page 1 fits at all. Dropping to \smallskip
+% Hsn added: recovers about 18pt, which is nearly two lines, and costs no content and
+% Hsn added: almost no legibility: the dashed rule itself already separates the blocks.
+% Hsn added: Redefined here, not in the class, per D2.
+% Hsn added: Why this lever and not another: measured with the page limit lifted, the
+% Hsn added: sidebar is the taller column and the two-column row is one unbreakable
+% Hsn added: minipage box, so the block needed to lose ~5pt to fit the 624pt left on
+% Hsn added: page 1 after the header and summary. Spacing was the only thing left that
+% Hsn added: was not a fact.
+\renewcommand{\dotline}{\noindent\textcolor{soft_text}{\hdashrule{\linewidth}{0.6pt}{0.5ex}}\smallskip}
+
 % Experience entry macro
 %--------------------
 % Hsn added: single entry macro for Experience. Every position now carries a start

@@ -29,6 +29,19 @@ B.Sc. {\footnotesize in Physics} \\
 % Hsn added: Languages Proficiency moved to the bottom of the sidebar so the five skill
 % Hsn added: categories read as one uninterrupted block; it used to sit wedged between
 % Hsn added: Programming Languages and Backend Development.
+% Hsn added: SECOND PASS, after the build failed the 2-page limit. The measurement
+% Hsn added: that mattered: the sidebar is the TALLER of the two page-1 columns (620pt
+% Hsn added: against the body's 581pt), and because CVbody and CVsidebar are minipages
+% Hsn added: the whole two-column row is one unbreakable box -- it either fits in what
+% Hsn added: is left of page 1 or it moves to page 2 entire. So the block's height is set
+% Hsn added: by this file, not by the Experience bullets, and trimming bullets did
+% Hsn added: nothing for it. Three cuts here, none of which lose information:
+% Hsn added:   - the stray trailing \\ after the last language line, which was adding an
+% Hsn added:     empty line to the tallest column;
+% Hsn added:   - "(DDD)" and "(RBAC)", where the term was already spelled out in full
+% Hsn added:     immediately before the acronym;
+% Hsn added:   - Apache (Linux and Docker already carry the deployment story) and
+% Hsn added:     "stakeholder communication" (the Sidraw entry opposite evidences it).
 % Hsn added: lists pruned. The backend line ran to 14 items, where the last five
 % Hsn added: diluted the first five -- a wall of names reads as insecurity. Removed:
 % Hsn added: MongoDB (nothing in the work history uses it), Composer (a package manager,
@@ -60,7 +73,7 @@ B.Sc. {\footnotesize in Physics} \\
 
 \textbf{Systems \& Workflow:} \\
 \vspace{0.1em}
-{\small Git, Docker, Linux, Apache, CI/CD, Caching strategies, SOLID, Domain-Driven Design (DDD), Microservices, JWT/OAuth2, Role-Based Access Control (RBAC)} \\
+{\small Git, Docker, Linux, CI/CD, Caching strategies, SOLID, Domain-Driven Design, Microservices, JWT/OAuth2, Role-Based Access Control} \\
 \dotline
 
 % Hsn added: new category. The titles on page 1 claim seniority but the sidebar used to
@@ -70,7 +83,7 @@ B.Sc. {\footnotesize in Physics} \\
 % Hsn added: and investors -- and each one is evidenced by an Experience entry opposite.
 \textbf{Architecture \& Leadership:} \\
 \vspace{0.1em}
-{\small Technical scoping \& estimation, system design, code review, mentoring, stakeholder communication} \\
+{\small Technical scoping \& estimation, system design, code review, mentoring} \\
 \dotline
 
 % Hsn added: Arabic (Elementary) cut -- "Elementary" tells a reader nothing actionable,
@@ -79,7 +92,7 @@ B.Sc. {\footnotesize in Physics} \\
 \textbf{Languages Proficiency:} \\
 \vspace{0.1em}
 English \hfill \softtext{\textit{Fluent}{\footnotesize \textit{(TOEFL: 102)}}} \\
-Farsi \hfill \softtext{\textit{Native}} \\
+Farsi \hfill \softtext{\textit{Native}}
 
 %  Kubernetes, Nginx, Apache, AWS, DigitalOcean, Azure, Database indexing and optimization,
 %  Caching strategies, JWT / OAuth2, Microservices, Domain-Driven Design (DDD), SOLID, TDD / BDD, Agile / Scrum, Documentation & API design,
