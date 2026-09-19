@@ -111,3 +111,20 @@
   {\small\softtext{\textit{#2, #3}}~\softtext{\textbullet}~\textcolor{icons}{#4}}\par
   \vspace{0.15em}%
 }
+
+% Project entry icon
+%--------------------
+% Hsn added: SPRING26-INSTANTES PASS (branch spring26-instantes-jobhunt). Selected
+% Hsn added: Projects (Txt/2-page2.tex) is hand-written, unlike Publications, whose
+% Hsn added: type headings get an icon from \pubtitle_symbolheading:nn in Code/CV.cls
+% Hsn added: (\hspace{-1.3\parindent}, an icon colored `icons`, a 10pt gap). To make
+% Hsn added: the two page-2 lists read as one visual system, this macro reuses those
+% Hsn added: exact values -- same left-push, same color, same gap -- so a project icon
+% Hsn added: lands aligned with the Publications icons rather than merely close to
+% Hsn added: them. \faCode is reused rather than introducing a new symbol: it is the
+% Hsn added: icon Code/CV.cls already assigns to type=software, the Publications
+% Hsn added: category these hand-written entries replaced. Deliberately normal-size,
+% Hsn added: not \large like the Publications heading icon: this runs once per entry
+% Hsn added: (five times) rather than once per type, and \large that often would
+% Hsn added: outweigh the surrounding \small project text.
+\newcommand{\projecticon}{\hspace{-1.3\parindent}\textcolor{icons}{\faCode}\hspace{10pt}}
