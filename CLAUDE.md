@@ -20,6 +20,11 @@ These are the user's standing instructions for this project. They override the d
 - **Never build or test unless asked.** Do not run `latexmk`, `pdflatex`, or anything else to "check"
   an edit. The user drives builds. This includes the 2-page check: flag a change that looks likely to
   overflow, but do not compile to confirm unless asked.
+- **Keep `Skills-Pool.json` current.** It is the master, categorised list of every skill Hasan has
+  claimed on any version of this résumé (plus unverified candidates). Whenever a skill is added to,
+  removed from, or moved on the sidebar or in the summary, update the pool in the same edit, and log
+  any skill added for a specific job under `_flagged_additions`. Never promote an `unverified_candidates`
+  entry onto the résumé without asking.
 - **Preserve existing conventions.** Match the surrounding format, reuse the class's existing macros
   and environments, and follow the established entry patterns rather than inventing new ones. Prefer
   editing `Txt/*.tex` over `Code/CV.cls`.

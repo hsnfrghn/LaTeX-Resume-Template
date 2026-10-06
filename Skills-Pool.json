@@ -1,0 +1,86 @@
+{
+  "_about": "Master pool of Hasan's skills, categorised. Not compiled; reference only. Pick from here when tailoring a resume instance. Keep it updated whenever a skill is added to or removed from Txt/p1_sidebar.tex or the summary in main.tex.",
+  "_last_updated": "2026-10-06",
+  "_status_legend": {
+    "on_resume_now": "printed in the sidebar (Txt/p1_sidebar.tex) as of the last update",
+    "used_on_earlier_versions": "was printed on an earlier version of the resume (so you have claimed it before) but is not on the sidebar now",
+    "from_experience_text": "evidenced by an Experience or Projects entry, not necessarily a sidebar token",
+    "unverified_candidates": "only ever appeared in the commented-out 'menu' in p1_sidebar.tex or in the original template. NOT confirmed as real skills. Never add to a resume without confirming with Hasan."
+  },
+  "_flagged_additions": {
+    "_note": "Skills added to a resume instance because the job required them and the resume lacked them (max 3 per instance, each flagged to Hasan). Log them here.",
+    "log": []
+  },
+
+  "programming_languages": {
+    "on_resume_now": ["Python", "PHP", "JavaScript/TypeScript", "C#", "SQL"],
+    "used_on_earlier_versions": ["C++ (commented out of the first version)", "HTML & CSS"],
+    "self_ratings_from_old_versions": {
+      "_note": "Old \\CVrating circles, dropped from the resume. Kept for the day a job asks for a skill level.",
+      "PHP": "5/5",
+      "Python": "5/5",
+      "C#": "4/5",
+      "SQL": "3/5",
+      "JavaScript": "3/5",
+      "C++": "3/5"
+    }
+  },
+
+  "backend_and_data": {
+    "on_resume_now": [
+      "Django", "FastAPI", "Flask", "PostgreSQL", "MySQL", "REST API/GraphQL", "Redis", "Kafka", "gRPC",
+      "NumPy", "pandas", "matplotlib", "SciPy", "scikit-learn", "Laravel", "WordPress", "WooCommerce"
+    ],
+    "used_on_earlier_versions": [
+      "PyTorch", "TensorFlow", "Node.js", "Express.js", "MongoDB", "Composer", "Blade (templating)"
+    ],
+    "from_experience_text": [
+      ".NET (C#) Windows applications", "custom WooCommerce plugins and themes", "WordPress back ends (licensing, user management)",
+      "RAM-buffer video encryption (DRM)", "numerical solution of differential equations in Python", "statistics",
+      "algorithms and scientific programming"
+    ]
+  },
+
+  "frontend": {
+    "on_resume_now": ["React", "Next.js", "Tailwind", "Livewire", "jQuery", "Bootstrap", "Blade", "Elementor", "Accessibility (a11y)"],
+    "used_on_earlier_versions": ["Vue.js", "Alpine.js", "Inertia.js", "Webpack", "Vite", "Sass", "PostCSS", "Blade templating engine"]
+  },
+
+  "systems_devops_and_workflow": {
+    "on_resume_now": [
+      "Docker", "Linux", "CI/CD", "Git", "SOLID", "JWT/OAuth2", "Role-Based Access Control", "Caching strategies",
+      "Microservices", "Domain-Driven Design", "High-performance computing (HPC)"
+    ],
+    "used_on_earlier_versions": ["Apache", "MS Windows", "CSRF / XSS awareness", "TDD/BDD", "Agile", "Postman"],
+    "unverified_candidates": [
+      "Kubernetes", "Nginx", "AWS", "DigitalOcean", "Azure", "Database indexing and optimization", "Agile / Scrum",
+      "Documentation & API design", "Security best practices (CSRF, XSS, SQL injection prevention)", "Encryption and hashing (bcrypt, Argon2)"
+    ]
+  },
+
+  "ai_and_llm": {
+    "on_resume_now": [
+      "OpenAI API", "LLM integration", "RAG", "embeddings", "tool calling", "prompt engineering", "chat-interface design", "AI-automation"
+    ],
+    "used_on_earlier_versions": ["AI-assisted development (Claude Code, GitHub Copilot)"],
+    "other_known_from_notes": ["ChatGPT (daily AI-assisted development, per PLAN.md)"]
+  },
+
+  "architecture_and_leadership": {
+    "on_resume_now": ["Mentoring", "code review", "system design", "technical scoping & estimation"],
+    "used_on_earlier_versions": ["stakeholder communication"],
+    "from_experience_text": [
+      "technical lead", "architecture ownership", "presenting architecture to CEO / product owner / investors",
+      "building and leading a web team (Boboko, 3 engineers)", "mentoring junior developers"
+    ]
+  },
+
+  "human_languages": {
+    "known": [
+      { "language": "English", "level": "Fluent", "evidence": "TOEFL 102" },
+      { "language": "Farsi", "level": "Native" },
+      { "language": "Arabic", "level": "Elementary" }
+    ],
+    "currently_printed_on_resume": false
+  }
+}
