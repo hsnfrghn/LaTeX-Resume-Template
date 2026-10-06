@@ -65,7 +65,14 @@
 % Hsn added: specifically for full-stack ownership, so the tagline now echoes the
 % Hsn added: JD's own title instead -- the AI angle still appears in the summary and
 % Hsn added: the Skills sidebar, just not as the first thing a reader sees.
-\tagline{Senior Full-Stack Software Engineer}
+% \tagline{Full-Stack Software Engineer $\cdot$ WEB & AI}
+
+% Hsn added: AI-DEVELOPER-JD PASS. Tagline swapped from "Senior Full-Stack Software
+% Hsn added: Engineer" (spring26-instantes pass) to match this posting's own title —
+% Hsn added: the role is data analysis + data engineering + applied LLM work, not
+% Hsn added: generic full-stack.
+\tagline{ Software Engineer $\cdot$ AI Developer}
+
 % \photo{2.8cm}{Img/Profile.png}
 \personalinfo{%
 %%   Not all of these are required!
@@ -176,16 +183,23 @@
 % Hsn added: (React/Next.js and Django/PostgreSQL, named explicitly) instead of with
 % Hsn added: the LLM work, which moves to a trailing clause -- same facts, same
 % Hsn added: length (63 words vs. 62), reordered for what this reader screens for.
-{\footnotesize Senior full-stack engineer, 7+ years, owning production systems end to end across React/Next.js and
- Django/PostgreSQL --- from .NET video-DRM used by 500+ educational institutions to a WordPress CRM now running 450+
- businesses, and LLM-backed products on the OpenAI API. Moves into unfamiliar stacks fast: three greenfield products ---
- Django, Flask and Next.js --- from zero to delivery in 5 weeks to 6 months.\par}
+% {\footnotesize Senior full-stack engineer, 7+ years, owning production systems end to end across React/Next.js and
+%  Django/PostgreSQL --- from .NET video-DRM used by 500+ educational institutions to a modular WordPress-Core CRM now running 450+
+%  businesses, and LLM-backed products on the OpenAI API. Moves into unfamiliar stacks fast: three greenfield products ---
+%  Django, Flask and Next.js --- from zero to delivery in 5 weeks to 6 months.\par}
 
 % Hsn added: the \par above is a bug fix, not cosmetics. Without it the summary and the
 % Hsn added: two page-1 minipages were one paragraph, so TeX set the body column on the
 % Hsn added: same line as the summary's last line and the row ran 58.25pt past the right
 % Hsn added: margin (Overfull \hbox, main.log). The longer summary is what exposed it.
 % Hsn added: Ending the paragraph explicitly puts the columns back on their own line.
+
+% Hsn added: For AI Developer \& Data Engineer.
+{\footnotesize 7+ years, Building LLM-powered products, data systems \& web applications --- 
+Python, SQL and Django/PostgreSQL end to end, from a real-time reporting/dashboard builder used by 450+
+businesses to an OpenAI-API nutrition-coaching platform.
+ Background in numerical/scientific Python and statistics from international published research.}
+
 \input{Txt/1-CV-body}
 \input{Txt/p1_sidebar}
 
